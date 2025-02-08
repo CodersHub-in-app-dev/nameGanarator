@@ -1,1 +1,1 @@
-#name genarator
+# name ganarator
